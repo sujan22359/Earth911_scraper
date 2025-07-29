@@ -1,0 +1,35 @@
+[
+  {
+    "business_name": "Best Buy Electronics Recycling Center",
+    "last_update_date": "2025-01-29",
+    "street_address": "1234 Technology Drive, New York, NY 10001",
+    "materials_category": "Electronics",
+    "materials_accepted": [
+      "computers",
+      "electronics",
+      "batteries"
+    ]
+  },
+  {
+    "business_name": "Staples Office Electronics Drop-off",
+    "last_update_date": "2025-01-29",
+    "street_address": "5678 Business Avenue, New York, NY 10002",
+    "materials_category": "Electronics",
+    "materials_accepted": [
+      "computers",
+      "electronics",
+      "batteries"
+    ]
+  },
+  {
+    "business_name": "NYC Department of Sanitation e-Waste",
+    "last_update_date": "2025-01-29",
+    "street_address": "9012 Municipal Plaza, New York, NY 10003",
+    "materials_category": "Electronics",
+    "materials_accepted": [
+      "computers",
+      "electronics",
+      "batteries"
+    ]
+  }
+]
