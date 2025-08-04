@@ -6,7 +6,7 @@ from playwright.async_api import async_playwright
 import google.generativeai as genai
 
 # Configure Gemini API
-genai.configure(api_key="AIzaSyBroh3pVL9RqyohhiJ_1xxtdv8dtmzkVzg")
+genai.configure(api_key="")
 
 CATEGORY_PROMPT = """
 You are a classification assistant. Given the following raw material description, classify it into:
