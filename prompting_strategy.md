@@ -9,7 +9,7 @@ materials_category: (choose from: Electronics, Batteries, Paint & Chemicals, Med
 materials_accepted: (choose items from the sublist provided in the official accepted materials list)
 
 Respond in JSON only.
-
+                                                      
 ### Why This Prompt Works
 - Forces structured output (JSON).
 - Standardizes categories.
